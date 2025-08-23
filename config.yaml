@@ -7,15 +7,15 @@ app:
   address: EeNciiEVnKLogJCcnYtqmEXA7PavKqNRWeF8ApnzrJYc
   android_package: com.solanamobile.ensofi
   urls:
-    license_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/License.md
-    copyright_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/Copyright.md
-    privacy_policy_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/Policy.md
+    license_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/blob/main/License.md
+    copyright_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/blob/main/Copyright.md
+    privacy_policy_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/blob/main/Policy.md
     website: https://ensofi.xyz/
   media:
     - purpose: icon
       uri: ./media/app_icon.png
 release:
-  address: mWqnkUHYxifD1wonV7bdBFDvKUbeYZuEaGvJpep5ddt
+  address: BzqHEGwMqL8spaV1dBL67azKim4pyrsZ7vCXWSSQuBEr
   media:
     - purpose: icon
       uri: ./media/app_icon.png
@@ -48,17 +48,16 @@ release:
         - **Rewards & Perks**: Boost your points, unlock exclusive benefits.
 
         EnsoFi is the easiest way to put your assets to work and enjoy the best yields on Solana.
-      new_in_version: New release
+      new_in_version: Update release information
       saga_features: None yet
 solana_mobile_dapp_publisher_portal:
-  google_store_package: com.solanamobile.ensofi
   testing_instructions: You just connect to any supported wallets to test the app.
   alpha_testers:
     - address: 3D36K9MvzCDn6HqQs9xUtKBbZADqC8Uy5KfTTpt9vMCr
       comment: Test user 1
 lastSubmittedVersionOnChain:
-  address: mWqnkUHYxifD1wonV7bdBFDvKUbeYZuEaGvJpep5ddt
-  version_code: 1
-  apk_hash: U5+ee1OVkVgBmWvXilZlftnwEvxATguibvDzMs0Qzt8=
+  address: BzqHEGwMqL8spaV1dBL67azKim4pyrsZ7vCXWSSQuBEr
+  version_code: 2
+  apk_hash: a2TQ0Hguos9+prlM0RywWa9knxYt1u/tToioX1cEW4Q=
 lastUpdatedVersionOnStore:
-  address: mWqnkUHYxifD1wonV7bdBFDvKUbeYZuEaGvJpep5ddt
+  address: BzqHEGwMqL8spaV1dBL67azKim4pyrsZ7vCXWSSQuBEr
