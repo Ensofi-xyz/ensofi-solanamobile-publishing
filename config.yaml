@@ -1,0 +1,64 @@
+publisher:
+  name: EnsoFi
+  website: https://ensofi.xyz/
+  email: hello@ensofi.xyz
+app:
+  name: EnsoFi
+  address: EeNciiEVnKLogJCcnYtqmEXA7PavKqNRWeF8ApnzrJYc
+  android_package: com.solanamobile.ensofi
+  urls:
+    license_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/License.md
+    copyright_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/Copyright.md
+    privacy_policy_url: https://github.com/Ensofi-xyz/ensofi-solanamobile-publishing/Policy.md
+    website: https://ensofi.xyz/
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+release:
+  address: mWqnkUHYxifD1wonV7bdBFDvKUbeYZuEaGvJpep5ddt
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+    - purpose: banner
+      uri: ./media/banner.png
+    - purpose: screenshot
+      uri: ./media/screenshot_1.png
+    - purpose: screenshot
+      uri: ./media/screenshot_2.png
+    - purpose: screenshot
+      uri: ./media/screenshot_3.png
+    - purpose: screenshot
+      uri: ./media/screenshot_4.png
+  files:
+    - purpose: install
+      uri: ./files/app-release.apk
+  catalog:
+    en-US:
+      name: EnsoFi
+      short_description: Easy access to best yields
+      long_description: |
+        EnsoFi makes it simple to earn the best yields on Solana.
+
+        With just few clicks, you can supply SOL, USDC, and other assets to start earning instantly — no hassle, no complexity.
+
+        Why choose EnsoFi?
+        - **Easy to Use**: Deposit once and let your assets work for you.
+        - **Best Yields**: Access yield opportunities on Solana.
+        - **Simplicity**: No complicated steps, just tap and earn.
+        - **Rewards & Perks**: Boost your points, unlock exclusive benefits.
+
+        EnsoFi is the easiest way to put your assets to work and enjoy the best yields on Solana.
+      new_in_version: New release
+      saga_features: None yet
+solana_mobile_dapp_publisher_portal:
+  google_store_package: com.solanamobile.ensofi
+  testing_instructions: You just connect to any supported wallets to test the app.
+  alpha_testers:
+    - address: 3D36K9MvzCDn6HqQs9xUtKBbZADqC8Uy5KfTTpt9vMCr
+      comment: Test user 1
+lastSubmittedVersionOnChain:
+  address: mWqnkUHYxifD1wonV7bdBFDvKUbeYZuEaGvJpep5ddt
+  version_code: 1
+  apk_hash: U5+ee1OVkVgBmWvXilZlftnwEvxATguibvDzMs0Qzt8=
+lastUpdatedVersionOnStore:
+  address: mWqnkUHYxifD1wonV7bdBFDvKUbeYZuEaGvJpep5ddt
