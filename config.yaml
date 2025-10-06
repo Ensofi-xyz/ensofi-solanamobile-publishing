@@ -15,7 +15,7 @@ app:
     - purpose: icon
       uri: ./media/app_icon.png
 release:
-  address: 4Zf9SQ3tCWbRk6tEHmaA2xtbkGWhoynYfm7UGMLeUdy4
+  address: BkZGFEBgczmYNxAfyx2wZvM9cqyC35g2Cyp7Sjee6Cd2
   media:
     - purpose: icon
       uri: ./media/app_icon.png
@@ -48,13 +48,13 @@ release:
         - **Rewards & Perks**: Boost your points, unlock exclusive benefits.
 
         EnsoFi is the easiest way to put your assets to work and enjoy the best yields on Solana.
-      new_in_version: Improve performance and bug fixes
+      new_in_version: Add exclusive rewards for Seekers. Improve performance and bug fixes.
       saga_features: None yet
   android_details:
     cert_fingerprint: 3ff2eb7085665d780088c04ea0a7a1cac2f2429c9448f7669b9d3b2eff5ae8fb
     min_sdk: 24
-    version: 1.0.5
-    version_code: 6
+    version: 1.0.6
+    version_code: 7
     locales:
       - en-US
       - af
@@ -150,8 +150,8 @@ solana_mobile_dapp_publisher_portal:
     - address: 3D36K9MvzCDn6HqQs9xUtKBbZADqC8Uy5KfTTpt9vMCr
       comment: Test user 1
 lastSubmittedVersionOnChain:
-  address: 4Zf9SQ3tCWbRk6tEHmaA2xtbkGWhoynYfm7UGMLeUdy4
-  version_code: 6
-  apk_hash: CsAt9keq0I9wsy778rNCQLk3y5KPRnfyPDMpgXt0/lg=
+  address: BkZGFEBgczmYNxAfyx2wZvM9cqyC35g2Cyp7Sjee6Cd2
+  version_code: 7
+  apk_hash: MCb6DPZHQ8xCjHH8vc6BvH+6lIB/RU0breno8kCH3Io=
 lastUpdatedVersionOnStore:
-  address: 4Zf9SQ3tCWbRk6tEHmaA2xtbkGWhoynYfm7UGMLeUdy4
+  address: BkZGFEBgczmYNxAfyx2wZvM9cqyC35g2Cyp7Sjee6Cd2
